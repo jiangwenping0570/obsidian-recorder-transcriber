@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-recorder-transcriber",
+    "name": "Obsidian录音转文字",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "将手机内部录音文件转为文字并保存为笔记",
+    "author": "WorkBuddy",
+    "isDesktopOnly": false
+}
